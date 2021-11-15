@@ -19,4 +19,7 @@ deep learning
 * https://ultralytics.com/
 * https://catalog.ngc.nvidia.com/orgs/nvidia/containers/l4t-pytorch
 * https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html
+* https://github.com/pytorch/pytorch
+* https://github.com/KumaTea/pytorch-aarch64/releases
+* https://github.com/deepjavalibrary/djl/blob/master/engines/pytorch/pytorch-engine/README.md
 
