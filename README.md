@@ -22,4 +22,9 @@ deep learning
 * https://github.com/pytorch/pytorch
 * https://github.com/KumaTea/pytorch-aarch64/releases
 * https://github.com/deepjavalibrary/djl/blob/master/engines/pytorch/pytorch-engine/README.md
+* https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-10-now-available/72048
+* http://djl.ai/engines/pytorch/pytorch-engine/
+* https://github.com/deepjavalibrary/djl/blob/master/bom/README.md
+* https://github.com/deepjavalibrary/djl/blob/master/docs/development/cache_management.md
+* https://github.com/deepjavalibrary/djl/blob/master/engines/pytorch/pytorch-engine/README.md
 
